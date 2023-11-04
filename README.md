@@ -53,6 +53,11 @@ The project is structured into various components, including:
 2. `PatternDatabases`: A module for constructing and managing pattern databases used in heuristic searches.
 3. `Algorithms`: Implementation of path-finding algorithms, including BFS, DFS, IDDFS, and IDA*.
 4. `Utilities`: Utility functions for custom data types, file I/O, and more.
+5. `Cmake`: This has been used to configure and manage the build process. The initial setup of CMake was facilitated through Jet Brains's "Clion" IDE.However, for those who wish to work with the project in different Integrated 
+            Development Environments (IDEs) like Visual Studio Code or need to integrate it into various scenarios, you can make use of the following files:
+   
+           1. CMakePresets.json
+           2. CMakeUserPresets.json
 
 ## Getting Started
 
