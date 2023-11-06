@@ -6,8 +6,29 @@
 
 This project is a comprehensive exploration of solving the Rubik's Cube puzzle through the creation of a computer program. We've successfully built a Rubik's Cube solver by breaking down the problem into manageable components, implementing algorithms, and utilizing object-oriented programming principles.
 
-### Final Output [DEMO] -
+## Final Output [DEMO] -
+### 1. Corner Pattern -
 
+https://github.com/Saket2701/Rubiks_Solver/assets/101319476/98545ff6-ce52-4884-9889-c76c32b6478e
+
+### 2. Solving the rubkis Cube -
+
+https://github.com/Saket2701/Rubiks_Solver/assets/101319476/7fc7e304-cde0-4045-b987-7f17715a557e
+### Following the Solver steps in the video
+#### Shuffled Cube [B2 D' D2 L'  F'] -
+![Screenshot 2023-11-06 104013](https://github.com/Saket2701/Rubiks_Solver/assets/101319476/1ce3b04a-ac32-47f5-82ff-deba81ebee0f)
+#### Solution [F L D' B2] - 
+##### F
+![F](https://github.com/Saket2701/Rubiks_Solver/assets/101319476/3524dba1-4109-4448-9e71-e948a7fc5644)
+
+##### L
+![L](https://github.com/Saket2701/Rubiks_Solver/assets/101319476/78f9f5c7-b5f9-4ed2-af58-0b7867d93cb3)
+
+##### D'
+![D'](https://github.com/Saket2701/Rubiks_Solver/assets/101319476/d7754b95-ea27-4d6f-a35f-63d981156952)
+
+##### B2 [The whole Cube is solved!] 
+![B2](https://github.com/Saket2701/Rubiks_Solver/assets/101319476/2abbdcd4-7660-4cf8-81d9-dbf6bb1ab644)
 
 ## Key Achievements
 
