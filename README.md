@@ -7,7 +7,7 @@
 This project is a comprehensive exploration of solving the Rubik's Cube puzzle through the creation of a computer program. We've successfully built a Rubik's Cube solver by breaking down the problem into manageable components, implementing algorithms, and utilizing object-oriented programming principles.
 
 ### Final Output [DEMO] -
-https://github.com/Saket2701/Rubiks_Solver/assets/101319476/e33f8029-fba4-46cf-aad3-69bee1c2698f
+
 
 ## Key Achievements
 
